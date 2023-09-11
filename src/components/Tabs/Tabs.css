@@ -1,0 +1,23 @@
+.tabButton{ 
+    margin: 16px !important;
+    color: black !important;
+    font-size: 18px;
+    font-weight: 400;
+   
+}
+
+.activeButton{
+  
+    border-left: 5px solid #AD2F3B !important;
+}
+/* .tabButton::{
+    font
+} */
+.tabs{
+    display: flex;
+}
+.bParent{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}

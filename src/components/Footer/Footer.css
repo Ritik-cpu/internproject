@@ -1,0 +1,14 @@
+.Typo{
+    display: flex !important;
+}
+
+.icons{
+    font-size: 32px !important;
+}
+
+@media only screen and (max-width: 960px) {
+    .Typo {
+      flex-direction: column !important;
+    }
+    
+  }
